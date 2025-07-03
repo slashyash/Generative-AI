@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import random
 
 ## Title of the App
 st.title("Helo Streamlit")
