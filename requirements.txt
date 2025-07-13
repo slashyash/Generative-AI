@@ -4,5 +4,7 @@ pandas
 streamlit
 scikit-learn
 nltk
-notebook jupyter
-
+tensorflow
+gensim
+matplotlib
+tensorboard
